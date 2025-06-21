@@ -1,6 +1,9 @@
-# Fireworks From Days Past
+# Fireworks From Days Past ([YouTube Demo](https://youtu.be/0b3XA5249HE))
 
-## [YouTube Link](https://youtu.be/0b3XA5249HE) 
+## Description
+
+A real-time 3D computer graphics firework scene with firework particle simulator, first-person camera, procedural terrain, a skybox, and water implementation. This project was developed with 
+the D language, SDL, and OpenGL.
 
 ## Screenshots
 <table align="center">
@@ -22,11 +25,6 @@
     <td><img src="./media/firework3.png" width="400px" alt="Exploded Firework 2"></td>
   </tr>
 </table>
-
-## Description
-
-A real-time 3D computer graphics firework scene with firework particle simulator, first-person camera, procedural terrain, a skybox, and water implementation. This project was developed with 
-the D language, SDL, and OpenGL.
 
 ## How to Run
 
